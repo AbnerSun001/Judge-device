@@ -20,3 +20,4 @@ $(document).ready(function () {
         //要执行的代码
     }
 });
+注：window.navigator对象可以获取访问者浏览器的信息
